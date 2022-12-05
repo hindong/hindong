@@ -1,2 +1,2 @@
-### Hi there 👋
+### I'd prefer vanilla JS
 
